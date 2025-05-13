@@ -1,4 +1,7 @@
-<img src=".github/readme-banner.png" alt="Welcome to the Superchain Registry"><br/>
+
+
+
+no<img src=".github/readme-banner.png" alt="Welcome to the Superchain Registry"><br/>
 
 > [!WARNING]
 > Starting on March 1st, 2025, all standard chains who wish to be added to the Superchain registry **MUST** be deployed using [OP Deployer](https://docs.optimism.io/builders/chain-operators/tools/op-deployer).
